@@ -49,7 +49,7 @@
 	    ['h', 'quan rebi missatge global %s', 'mesh_hat'],
             [' ', 'enviar missatge global %s', 'broadcast']
         ],
-        url: 'http://technoboy10.tk/mesh'
+        url: 'https://edutec.github.io/mesh'
     };
 
 
